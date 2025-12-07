@@ -20,6 +20,7 @@ Key director and actor performance
 Statistical evidence supporting profitability
 
 **Methodology**
+
 1️⃣ Data Cleaning & Preparation
 
 Removed missing values
@@ -55,6 +56,7 @@ Average gross revenue
 Consistency of successful projects
 
 **Key Insights**
+
 ⭐ Romance vs Horror Comparison
 
 Romance films show higher IMDb scores
@@ -72,6 +74,7 @@ P-value: 0.380
 However, Romance demonstrates a clearer trend of higher appeal and better revenue performance.
 
 **Final Recommendations**
+
 Recommended Genre:
 ✅ Romance
 Recommended Director:
