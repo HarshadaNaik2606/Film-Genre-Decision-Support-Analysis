@@ -1,6 +1,6 @@
 **🎬 Film Genre Decision Support Analysis**
-A Data-Driven Comparison of Romance vs Horror Profitability Using IMDb Data
 
+A Data-Driven Comparison of Romance vs Horror Profitability Using IMDb Data
 This project provides a comprehensive data-driven analysis to support strategic decision-making in film production. Using IMDb movie data, the study compares Romance and Horror genres to identify which one offers stronger financial performance, audience appeal, and production value for low-to-mid budget films.
 
 The project includes full EDA, statistical hypothesis testing, and performance-based talent recommendations, making it a complete end-to-end data science solution.
